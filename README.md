@@ -1,9 +1,8 @@
-# ESP32-S3 Devboard :)
 This is a ESP32-S3 Dev board for: https://silicon.hackclub.dev/
 
-In addition to the ESP32-S3, I also added three small NeoPixels (which can act as indicator lights), as well as a Time of Flight Sensor (VL53L4CX). It also includes power management (USB -> 3.3v) with surge protection. The board is overall fairly simple because I wanted it to be versatile for whatever project I may need it for. 
+In addition to the ESP32-S3, I also added three small NeoPixels (which can act as indicator lights), as well as a Time of Flight Sensor (VL53L4CX). It also includes power management (USB -> 3.3v) with surge protection. The board is overall fairly simple because I wanted it to be versatile for whatever project I may need it for. Also a final addition was the awesome I2S Microphone!!
 
 
-<img width="1190" height="845" alt="SCH_Schematic1_1-P1_2025-07-26" src="https://github.com/user-attachments/assets/18d5f476-4a3c-472d-bfbb-9a3e9b8e5cdf" />
-<img width="366" height="610" alt="image" src="https://github.com/user-attachments/assets/27421cfc-90f5-4b32-984f-f7e116516546" />
-<img width="2160" height="3312" alt="3D_PCB1_2025-07-26" src="https://github.com/user-attachments/assets/3dbbecbf-c76d-40e0-a6b9-04912b11c261" />
+<img width="888" height="630" alt="image" src="https://github.com/user-attachments/assets/236bfcb7-5ab8-4cd8-9ac1-cb1fea341a7d" />
+<img width="321" height="542" alt="image" src="https://github.com/user-attachments/assets/c7b2f3c8-bd07-4620-add5-ffa670ab52c4" />
+<img width="627" height="669" alt="image" src="https://github.com/user-attachments/assets/ea3594e7-f837-4192-9c92-803dc3db0e22" />
